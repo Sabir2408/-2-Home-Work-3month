@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.content{
+    display: flex;
+    justify-content:center ;
+    gap: 20px;
+    padding: 300px;
+}
+.btn_red{
+    width: 120px;
+    height: 35px;
+    color:red;
+    background-color: pink;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 30px;
+    cursor: pointer;
+}
+.btn_red:hover{
+	color: #fff;
+	text-shadow: 0 0 5px #03e9f4, 0 0  25px #03e9f4, 0 0 50px #03e9f4, 0 0 100px #03e9f4 ;
+}
+.btn_green{
+    width: 120px;
+    height: 35px;
+    color:green;
+    background-color: pink;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700; 
+    font-size: 30px;
+    cursor: pointer;
+}
+.btn_green:hover{
+	color: #fff;
+	text-shadow: 0 0 5px #03e9f4, 0 0  25px #03e9f4, 0 0 50px #03e9f4, 0 0 100px #03e9f4 ;
+}
+.btn_yellow{
+    width: 120px;
+    height: 35px;
+    color:yellow;
+    background-color: pink;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 30px;
+    cursor: pointer;
+}
+.btn_yellow:hover{
+	color: #fff;
+	text-shadow: 0 0 5px #03e9f4, 0 0  25px #03e9f4, 0 0 50px #03e9f4, 0 0 100px #03e9f4 ;
+}
+.btn_reset{
+    width: 120px;
+    height: 35px;
+    color:white;
+    background-color: pink;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 30px;
+    cursor: pointer;
+}
+.btn_reset:hover{
+	color: #fff;
+	text-shadow: 0 0 5px #03e9f4, 0 0  25px #03e9f4, 0 0 50px #03e9f4, 0 0 100px #03e9f4 ;
+}
